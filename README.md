@@ -30,4 +30,4 @@ Mods are organized in sub-folders under the parent `versions/` folder, distingui
 
 ### Video demo
 
-<video src="img/demo.mp4" controls></video>
+https://github.com/inkwje/minecraft-mod_manager/assets/134554148/9438c3b6-ea65-422b-b7fb-f727a0c89f2d
