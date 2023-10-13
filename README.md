@@ -16,7 +16,7 @@ I wrote this script that will do it for you
 
 | file                    | SHA256                                                           |
 | ----------------------- | ---------------------------------------------------------------- |
-| [script](./mc-switcher) | 0fbe8ff9d5b242ad4f4b6ba53b56fb6a387db1bf8950175b9357d34cf0767113 |
+| [script](./mc-switcher) | 08c4d7dc5ac058f5dd3f6cf712db858fe307537ca3ef6738d9fb429d3249d438 |
 
 ### Structure
 
