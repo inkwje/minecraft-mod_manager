@@ -1,0 +1,6 @@
+# ignore dirs
+shaderpacks/
+versions/
+
+# ignore files
+*.jar
